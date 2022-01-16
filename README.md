@@ -24,21 +24,21 @@ Statsatics
 1) Mathematics
 Math skill is very important as they help us in understanding various machine learning algorithms that play an important role in Data Science.
 
-	Part 1:
+	# Part 1:
 		**Linear Algebra
 		Analytic Geometry
 		Matrix
 		Vector Calculus
 		Optimization**
 	
-	Part 2:
+	# Part 2:
 		**Regression
 		Dimensionality Reduction
 		Density Estimation
 		Classification**
 2) Probability
 Probability is also significant to statistics, and it is considered a prerequisite for mastering machine learning.
-
+# 
 	**Introduction to Probability
 	1D Random Variable
 	The function of One Random Variable
@@ -54,7 +54,7 @@ Probability is also significant to statistics, and it is considered a prerequisi
 	Normal Distribution (Python | R)**
 3) Statistics
 Understanding of Statistics is very significant as this is a part of Data analysis. 
-
+# 
 	Introduction to Statistics
 	Data Description
 	Random Samples
@@ -78,7 +78,7 @@ Understanding of Statistics is very significant as this is a part of Data analys
 	Basics of Graphs
 4) Programming
 One needs to have a good grasp of programming concepts such as Data structures and Algorithms. The programming languages used are Python, R, Java, Scala. C++ is also useful in some places where performance is very important.
-
+# 
 	Python:
 		Python Basics
 		List
@@ -117,7 +117,7 @@ One needs to have a good grasp of programming concepts such as Data structures a
 		Data Structure
 5) Machine Learning
 ML is one of the most vital parts of data science and the hottest subject of research among researchers so each year new advancements are made in this. One at least needs to understand basic algorithms of Supervised and Unsupervised Learning. There are multiple libraries available in Python and R for implementing these algorithms.
-
+# 
 	Introduction:
 		How Model Works
 		Basic Data Exploration
@@ -136,7 +136,7 @@ ML is one of the most vital parts of data science and the hottest subject of res
 
 6) Deep Learning
 Deep Learning uses TensorFlow and Keras to build and train neural networks for structured data.
-
+# 
 	Artificial Neural Network
 	Convolutional Neural Network
 	Recurrent Neural Network
@@ -152,7 +152,7 @@ Deep Learning uses TensorFlow and Keras to build and train neural networks for s
 
 7) Feature Engineering
 In Feature Engineering discover the most effective way to improve your models.
-
+# 
 	Baseline Model
 	Categorical Encodings
 	Feature Generation
@@ -160,13 +160,13 @@ In Feature Engineering discover the most effective way to improve your models.
 	
 8) Natural Language Processing
 In NLP distinguish yourself by learning to work with text data.
-
+# 
 	Text Classification
 	Word Vectors
 	
 9) Data Visualization Tools
 Make great data visualizations. A great way to see the power of coding!
-
+# 
 	Excel VBA
 	BI (Business Intelligence):
 	Tableau
@@ -176,7 +176,7 @@ Make great data visualizations. A great way to see the power of coding!
 
 10) Deployment
 The last part is doing the deployment. Definitely, whether you are fresher or 5+ years of experience, or 10+ years of experience, deployment is necessary. Because deployment will definitely give you a fact is that you worked a lot.  
-
+# 
 	Microsoft Azure
 	Heroku
 	Google Cloud Platform
@@ -184,6 +184,7 @@ The last part is doing the deployment. Definitely, whether you are fresher or 5+
 	DJango
 	
 11) Other Points to Learn
+# 
 	Domain Knowledge
 	Communication Skill
 	Reinforcement Learning
