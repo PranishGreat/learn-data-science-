@@ -3,9 +3,7 @@
 
 Aim  ---> To become a Data Scientist
 
-
-
-Statsatics --->
+Statsatics
 
 	Overview of statistical learning
 	Linear regression
@@ -26,21 +24,22 @@ Statsatics --->
 1) Mathematics
 Math skill is very important as they help us in understanding various machine learning algorithms that play an important role in Data Science.
 
-Part 1:
-	Linear Algebra
-	Analytic Geometry
-	Matrix
-	Vector Calculus
-	Optimization
-Part 2:
-	Regression
-	Dimensionality Reduction
-	Density Estimation
-	Classification
+	Part 1:
+		**Linear Algebra
+		Analytic Geometry
+		Matrix
+		Vector Calculus
+		Optimization**
+	
+	Part 2:
+		**Regression
+		Dimensionality Reduction
+		Density Estimation
+		Classification**
 2) Probability
 Probability is also significant to statistics, and it is considered a prerequisite for mastering machine learning.
 
-	Introduction to Probability
+	**Introduction to Probability
 	1D Random Variable
 	The function of One Random Variable
 	Joint Probability Distribution
@@ -52,7 +51,7 @@ Probability is also significant to statistics, and it is considered a prerequisi
 	Uniform
 	Exponential
 	Gamma
-	Normal Distribution (Python | R)
+	Normal Distribution (Python | R)**
 3) Statistics
 Understanding of Statistics is very significant as this is a part of Data analysis. 
 
@@ -111,29 +110,29 @@ One needs to have a good grasp of programming concepts such as Data structures a
 		Web Scraping (Python | R)
 		Linux
 		Git
-References: 
-	Python
-	R
-	SQL
-	Data Structure
+	References: 
+		Python
+		R
+		SQL
+		Data Structure
 5) Machine Learning
 ML is one of the most vital parts of data science and the hottest subject of research among researchers so each year new advancements are made in this. One at least needs to understand basic algorithms of Supervised and Unsupervised Learning. There are multiple libraries available in Python and R for implementing these algorithms.
 
-Introduction:
-	How Model Works
-	Basic Data Exploration
-	First ML Model
-	Model Validation
-	Underfitting & Overfitting
-	Random Forests (Python | R)
-	scikit-learn
-	Intermediate:
-	Handling Missing Values
-	Handling Categorical Variables
-	Pipelines
-	Cross-Validation (R)
-	XGBoost (Python | R)
-	Data Leakage
+	Introduction:
+		How Model Works
+		Basic Data Exploration
+		First ML Model
+		Model Validation
+		Underfitting & Overfitting
+		Random Forests (Python | R)
+		scikit-learn
+		Intermediate:
+		Handling Missing Values
+		Handling Categorical Variables
+		Pipelines
+		Cross-Validation (R)
+		XGBoost (Python | R)
+		Data Leakage
 
 6) Deep Learning
 Deep Learning uses TensorFlow and Keras to build and train neural networks for structured data.
