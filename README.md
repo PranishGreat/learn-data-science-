@@ -1,4 +1,4 @@
-# learn-data-science
+# Learn-data-science
 
 
 Aim  ---> To become a Data Scientist
